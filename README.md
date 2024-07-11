@@ -1,4 +1,4 @@
-![image](https://github.com/sty112/real-time-fall-detection-and-velocity-measurement/assets/84215617/0c0ee7d2-9119-4fbf-bf1b-220844f344ff)# real-time-fall-detection-and-velocity-measurement
+# real-time-fall-detection-and-velocity-measurement
 
 Introduction:
 This is an individual project done for my capstone course,my purpose of building this project is because many people especially the older generation, miss the best rescue period after having no one at home to support them, resulting in permanent injuries or casualties after a serious fall at home. So my purpose is to use machine vision and deep learning to identify whether the detected character has fallen, and calculate the speed of the fall to determine the degree of injury.
