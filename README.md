@@ -14,12 +14,15 @@ Testing:
 To test if the models are working as intended, I conducted a small experiment by recording various fall patterns for example front fall,back fall and going to fall but balanced ones self, and I threw the videos to the model for it to analyze.
 
 front fall
+
 ![image](https://github.com/sty112/real-time-fall-detection-and-velocity-measurement/assets/84215617/5ea2c713-e311-469b-924b-26d09ea21c86)
 
 back fall
+
 ![image](https://github.com/sty112/real-time-fall-detection-and-velocity-measurement/assets/84215617/e43482ac-a4c4-44c3-88f1-49f5edc7a357)
 
 going to fall but balanced
+
 ![image](https://github.com/sty112/real-time-fall-detection-and-velocity-measurement/assets/84215617/746362f2-b478-4de9-afe4-f85ce394c840)
 
 
